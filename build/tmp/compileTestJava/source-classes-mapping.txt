@@ -1,0 +1,2 @@
+com/practice/spring/aws/HelloControllerTest.java
+ com.practice.spring.aws.HelloControllerTest

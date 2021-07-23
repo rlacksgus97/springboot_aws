@@ -1,0 +1,2 @@
+com/practice/spring/aws/Application.java
+ com.practice.spring.aws.Application
